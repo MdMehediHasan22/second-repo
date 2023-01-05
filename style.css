@@ -3,5 +3,12 @@ p{
     
 }
 h1{
-    background-color: bisque;
+    background-color:olive;
+}
+p{
+
+    border: 20px;
+}
+h3{
+    color: cadetblue;
 }
